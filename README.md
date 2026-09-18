@@ -14,7 +14,7 @@
 
 I'm a second-year **Computer Engineering** student at the **University of Toronto** (PEY Co-op), based in Toronto. I enjoy turning technically demanding ideas into reliable, polished products—from full-stack web experiences to GPU-accelerated ML and computer-vision systems.
 
-- 🔭 Currently: Software Engineering Intern at **SellStatic**
+- 🔭 Currently: Software Engineer at **SellStatic**
 - 🧠 Interested in: full-stack engineering, applied machine learning, and performance-oriented systems
 - 🎓 BASc, Computer Engineering — University of Toronto (2025–2029)
 - 🤝 Open to PEY Co-op, internship, collaboration, and project opportunities
@@ -33,10 +33,6 @@ I'm a second-year **Computer Engineering** student at the **University of Toront
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,ts,react,nextjs,aws,postgres,mongodb,pytorch&theme=dark" alt="Python, C++, TypeScript, React, Next.js, AWS, PostgreSQL, MongoDB and PyTorch" />
 </p>
-
-## A little more context
-
-At SellStatic, I work on product features across feedback automation, an AI-native browser video editor, an on-site chatbot, persistence reliability, and Playwright-based quality assurance. Previously, I built ML workflows for forest-cover classification through Amazon's Work Experience Program.
 
 ## Find me online
 
