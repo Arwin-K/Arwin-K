@@ -31,7 +31,7 @@ I'm a second-year **Computer Engineering** student at the **University of Toront
 ## Building with
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,ts,react,nextjs,aws,postgres,mongodb,pytorch,opencv&theme=dark" alt="Python, C++, TypeScript, React, Next.js, AWS, PostgreSQL, MongoDB, PyTorch, and OpenCV" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,ts,react,nextjs,aws,postgres,mongodb,pytorch,opencv&theme=dark" alt="Python, C++, TypeScript, React, Next.js, AWS, PostgreSQL, MongoDB and PyTorch" />
 </p>
 
 ## A little more context
@@ -43,7 +43,3 @@ At SellStatic, I work on product features across feedback automation, an AI-nati
 - Portfolio: [arwink.me](https://arwink.me)
 - LinkedIn: [arwin-karir](https://www.linkedin.com/in/arwin-karir)
 - Email: [karirarwin@gmail.com](mailto:karirarwin@gmail.com)
-
-<div align="center">
-  <sub>Thanks for stopping by.</sub>
-</div>
