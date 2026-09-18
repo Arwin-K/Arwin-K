@@ -34,11 +34,6 @@ I'm a second-year **Computer Engineering** student at the **University of Toront
   <img src="https://skillicons.dev/icons?i=python,cpp,ts,react,nextjs,aws,postgres,mongodb,pytorch,opencv&theme=dark" alt="Python, C++, TypeScript, React, Next.js, AWS, PostgreSQL, MongoDB, PyTorch, and OpenCV" />
 </p>
 
-```text
-Web:        React · TypeScript · ASP.NET Core · PostgreSQL · MongoDB
-ML/Systems: Python · PyTorch · CUDA · C++ · ONNX · OpenCV
-```
-
 ## A little more context
 
 At SellStatic, I work on product features across feedback automation, an AI-native browser video editor, an on-site chatbot, persistence reliability, and Playwright-based quality assurance. Previously, I built ML workflows for forest-cover classification through Amazon's Work Experience Program.
