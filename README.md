@@ -31,7 +31,7 @@ I'm a second-year **Computer Engineering** student at the **University of Toront
 ## Building with
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,ts,react,nextjs,aws,postgres,mongodb,pytorch,opencv&theme=dark" alt="Python, C++, TypeScript, React, Next.js, AWS, PostgreSQL, MongoDB and PyTorch" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,ts,react,nextjs,aws,postgres,mongodb,pytorch&theme=dark" alt="Python, C++, TypeScript, React, Next.js, AWS, PostgreSQL, MongoDB and PyTorch" />
 </p>
 
 ## A little more context
