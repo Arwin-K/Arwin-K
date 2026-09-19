@@ -14,10 +14,10 @@
 
 I'm a second-year **Computer Engineering** student at the **University of Toronto** (PEY Co-op), based in Toronto. I enjoy turning technically demanding ideas into reliable, polished products—from full-stack web experiences to GPU-accelerated ML and computer-vision systems.
 
-- 🔭 Currently: Software Engineer at **SellStatic**
-- 🧠 Interested in: full-stack engineering, applied machine learning, and performance-oriented systems
-- 🎓 BASc, Computer Engineering — University of Toronto (2025–2029)
-- 🤝 Open to PEY Co-op, internship, collaboration, and project opportunities
+- Currently: Software Engineer at **SellStatic**
+- Interested in: full-stack engineering, applied machine learning, and performance-oriented systems
+- BASc, Computer Engineering — University of Toronto (2025–2029)
+- Open to PEY Co-op, internship, collaboration, and project opportunities
 
 ## Selected work
 
