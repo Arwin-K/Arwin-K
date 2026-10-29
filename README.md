@@ -4,76 +4,123 @@
 
 ```text
 Last login: 2026-10-29
-arwin@toronto ~ % cat profile.toml
+arwin@macbook ~ % sw_vers
+ProductName: macOS
+```
+
+---
+
+## 01 / about
+
+```zsh
+arwin@macbook ~ % cat ~/about/profile.toml
 ```
 
 ```toml
 name      = "Arwin Karir"
 location  = "Toronto, Canada"
 education = "Computer Engineering, University of Toronto"
-work      = "Software Engineer @ SellStatic"
-curious   = ["AI/ML infrastructure", "GPU performance", "computer vision", "product engineering"]
+focus     = ["AI/ML infrastructure", "GPU performance", "computer vision", "product engineering"]
 ```
 
-I build across the stack, but I keep gravitating toward the part where a model or feature has to **work outside the notebook**. I like tracing the whole path: data, inference, backend, interface, failure cases, and a measurement that tells me whether the change helped.
+I like building across the stack, especially where an idea has to leave the notebook and survive real use. I care about the path from **data and inference** to **backend and interface**, including what happens when things fail and how to tell whether a change actually helped.
 
-### `arwin@toronto:~$ cat experience.log`
+---
 
-**Software Engineer · SellStatic** `May 2026 — present`  
-I ship AI ad creation workflows in **React and ASP.NET Core**. That has meant building brand onboarding, revision history, and an asynchronous video completion path using **AWS SNS/SQS, Lambda, SES, and Azure Blob Storage** so a finished render can still reach someone after they leave the app. I also built a GA4 event layer across 27 product surfaces to make product behavior measurable.
+## 02 / experience
 
-**Artificial Intelligence Intern · Amazon Work Experience Program** `Jun — Aug 2023`  
-I built and compared forest cover classifiers using **Python, scikit-learn, Optuna, and AWS SageMaker**. The project involved 464,811 records, seven classes, and a serious class imbalance. The tuned decision tree reached **93.4% accuracy** in that experiment; I compared its accuracy and training cost with neural network and logistic regression baselines.
+```zsh
+arwin@macbook ~ % ls -lh ~/experience
+```
 
-### `arwin@toronto:~$ ls -la projects/`
+<table>
+  <tr>
+    <td align="center" width="100"><img src="https://raw.githubusercontent.com/Arwin-K/arwin-personal-website/main/public/logos/sellstatic.png" alt="SellStatic logo" width="76" /></td>
+    <td><strong>SellStatic</strong><br/>Software Engineer<br/><sub>May 2026 – present · Toronto</sub></td>
+  </tr>
+</table>
 
-| Project | What I worked on |
-| :--- | :--- |
-| [CUDA fused causal softmax](https://github.com/Arwin-K/cuda-attention-softmax) | A fused PyTorch/CUDA operator for transformer attention. I kept correctness checks, profiler output, and reproducible Tesla T4 benchmarks; PyTorch SDPA still won the full-attention comparison. |
-| [LumiSense](https://github.com/Arwin-K/lumisense) | A camera-based lighting system for the U of T Sustainability Office, connecting computer vision to Raspberry Pi edge inference. |
-| [ArwinOS](https://github.com/Arwin-K/arwin-personal-website) | My portfolio reimagined as a little desktop, built with React and TypeScript. Try the terminal at [arwink.me](https://arwink.me). |
-| [Fake news detection](https://github.com/Arwin-K/fake-news-detection) | An NLP pipeline comparing TF-IDF and classical models with contextual embeddings. |
-| [Stock volatility research](https://github.com/Arwin-K/stock-price-volatility-comparison) | Python and statistical modeling to compare volatility and predictability across penny stocks and large caps. |
+- Ship AI ad creation workflows with **React, C# / ASP.NET Core, AWS, and Azure**.
+- Built an asynchronous video completion path with **SNS, SQS, Lambda, SES, and Azure Blob Storage** so finished renders still reach users who leave mid-render.
+- Shipped brand onboarding and ad revision history, with validation, recovery paths, and tests.
+- Added GA4 instrumentation across **27 product surfaces** to make user behavior measurable.
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center" width="100"><img src="https://raw.githubusercontent.com/Arwin-K/arwin-personal-website/main/public/logos/amazon.png" alt="Amazon logo" width="76" /></td>
+    <td><strong>Amazon Work Experience Program</strong><br/>Artificial Intelligence Intern<br/><sub>June – August 2023 · Remote</sub></td>
+  </tr>
+</table>
+
+- Built a forest cover classification pipeline using **Python, pandas, scikit-learn, Optuna, and AWS SageMaker**.
+- Worked with **464,811 records**, seven classes, and a substantial class imbalance.
+- Compared a tuned decision tree with neural network and logistic regression baselines. The decision tree reached **93.4% accuracy** in that experiment.
+- Measured training time and discussed accuracy versus compute cost with AWS engineers.
+
+---
+
+## 03 / projects
+
+```zsh
+arwin@macbook ~ % ls ~/projects
+```
+
+### GPU systems & applied ML
+
+- **[CUDA fused causal softmax](https://github.com/Arwin-K/cuda-attention-softmax)** — A PyTorch/CUDA operator for transformer attention, with correctness checks, profiler output, and reproducible Tesla T4 benchmarks. The full-attention comparison also records where PyTorch SDPA wins.
+- **[LumiSense](https://github.com/Arwin-K/lumisense)** — Camera-based lighting analysis for the U of T Sustainability Office, connecting computer vision with Raspberry Pi edge inference.
+- **[Fake news detection](https://github.com/Arwin-K/fake-news-detection)** — An NLP pipeline comparing TF-IDF and classical models with contextual embeddings.
+
+### Products & research
+
+- **[ArwinOS](https://github.com/Arwin-K/arwin-personal-website)** — My [portfolio](https://arwink.me) as a desktop you can explore, built with React and TypeScript.
+- **[Stock volatility research](https://github.com/Arwin-K/stock-price-volatility-comparison)** — Python and statistical modeling to compare volatility and predictability across penny stocks and large caps.
+- **FinanceU** — A financial literacy app concept that won first prize at the ASPIRE 2030 Global Hackathon.
+- **Stock prediction research** — Earlier research with Morgan State University using Python, MATLAB, and linear regression.
+
+### In progress
 
 ```text
-arwin@toronto ~ % cat currently_building.txt
-Jev: an LLM gateway research project about routing, verification, calibration,
-     caching, and honest comparisons between decision models.
-Status: work in progress; experiments and results belong in the project record.
+arwin@macbook ~ % cat ~/projects/jev/STATUS
+Jev — an LLM gateway research project exploring routing, verification,
+      calibration, caching, and comparisons between decision models.
+Status: in progress. Results belong in the project record.
 ```
 
-Earlier work includes **FinanceU**, a financial literacy app concept that won first prize at the ASPIRE 2030 Global Hackathon, and stock prediction research with Morgan State University. I like projects where the technical work has a reason to exist.
+---
 
-### `arwin@toronto:~$ tree stack/`
+## 04 / stack
 
-```text
-stack/
-├── product/         interfaces, APIs, databases
-├── ml-systems/      training, inference, vision, GPU work
-└── infrastructure/ cloud services, containers, tooling
+```zsh
+arwin@macbook ~ % ls ~/stack
+product    ml-systems    infrastructure
 ```
 
-**product**  
+**Product — interfaces, APIs, databases**  
 <img src="https://skillicons.dev/icons?i=ts,js,react,vite,cs,dotnet,postgres,mongodb&theme=dark" alt="TypeScript, JavaScript, React, Vite, C sharp, .NET, PostgreSQL, MongoDB" />
 
-**ml-systems**  
+**ML & systems — training, inference, vision, GPU work**  
 <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,opencv,raspberrypi,linux&theme=dark" alt="Python, C plus plus, PyTorch, OpenCV, Raspberry Pi, Linux" />  
 <sub>CUDA · ONNX · scikit-learn · NumPy · pandas</sub>
 
-**infrastructure & workflow**  
+**Infrastructure — cloud, containers, tooling**  
 <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github&theme=dark" alt="AWS, Azure, Docker, Git, GitHub" />  
 <sub>SNS/SQS · Lambda · SageMaker · CI · profiling and benchmarks</sub>
 
-### `arwin@toronto:~$ cat outside_the_terminal.txt`
+---
 
-Photography, comics, a good sunset, and making the details of a project feel intentional. Some of my photos and the rest of my work live on [ArwinOS](https://arwink.me).
+## 05 / away from the keyboard
 
-```text
-arwin@toronto ~ % ./connect
+Photography, comics, a good sunset, and making the details of a project feel intentional. Some of my photos live on [ArwinOS](https://arwink.me).
+
+```zsh
+arwin@macbook ~ % open https://arwink.me
 ```
 
 [portfolio](https://arwink.me) · [LinkedIn](https://www.linkedin.com/in/arwin-karir/) · [email](mailto:karirarwin@gmail.com) · [photography](https://www.instagram.com/karir.visuals/)
 
 ```text
-arwin@toronto ~ % _
+arwin@macbook ~ % _
 ```
