@@ -27,6 +27,16 @@ I like building across the stack, especially where an idea has to leave the note
 
 ---
 
+## `arwin@macbook ~ % open https://still-testing.vercel.app`
+
+### Still — find something worth building
+
+**The hackathon is over. Your project isn't.** Still helps builders share open-source projects, find people who want to contribute, and keep building together.
+
+I'm working on this one, and I'd be grateful if you **[checked out Still and gave it a try](https://still-testing.vercel.app/)**. If something feels confusing or could be better, I'd love to hear it.
+
+---
+
 ## `arwin@macbook ~ % ls -lh ~/experience`
 
 <table>
@@ -67,6 +77,7 @@ I like building across the stack, especially where an idea has to leave the note
 
 ### Products & research
 
+- **[Still](https://still-testing.vercel.app/)** — A home for open-source projects to find contributors and keep going after demo day. [Try it here](https://still-testing.vercel.app/).
 - **[ArwinOS](https://github.com/Arwin-K/arwin-personal-website)** — My [portfolio](https://arwink.me) as a desktop you can explore, built with React and TypeScript.
 - **[Stock volatility research](https://github.com/Arwin-K/stock-price-volatility-comparison)** — Python and statistical modeling to compare volatility and predictability across penny stocks and large caps.
 - **FinanceU** — A financial literacy app concept that won first prize at the ASPIRE 2030 Global Hackathon.
