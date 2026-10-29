@@ -31,7 +31,7 @@ I like building across the stack, especially where an idea has to leave the note
 
 <table>
   <tr>
-    <td align="center" width="100"><img src="https://raw.githubusercontent.com/Arwin-K/arwin-personal-website/main/public/logos/sellstatic.png" alt="SellStatic logo" width="76" /></td>
+    <td align="center" width="100"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arwin-K/Arwin-K/main/assets/sellstatic-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arwin-K/arwin-personal-website/main/public/logos/sellstatic.png" /><img src="https://raw.githubusercontent.com/Arwin-K/arwin-personal-website/main/public/logos/sellstatic.png" alt="SellStatic logo" width="76" /></picture></td>
     <td><strong>SellStatic</strong><br/>Software Engineer<br/><sub>May 2026 – present · Toronto</sub></td>
   </tr>
 </table>
@@ -45,7 +45,7 @@ I like building across the stack, especially where an idea has to leave the note
 
 <table>
   <tr>
-    <td align="center" width="100"><img src="https://raw.githubusercontent.com/Arwin-K/arwin-personal-website/main/public/logos/amazon.png" alt="Amazon logo" width="76" /></td>
+    <td align="center" width="100"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arwin-K/Arwin-K/main/assets/amazon-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arwin-K/arwin-personal-website/main/public/logos/amazon.png" /><img src="https://raw.githubusercontent.com/Arwin-K/arwin-personal-website/main/public/logos/amazon.png" alt="Amazon logo" width="76" /></picture></td>
     <td><strong>Amazon Work Experience Program</strong><br/>Artificial Intelligence Intern<br/><sub>June – August 2023 · Remote</sub></td>
   </tr>
 </table>
