@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Arwin-K/Arwin-K/main/assets/terminal-hero.svg" alt="Terminal introduction: Arwin Karir, Computer Engineering at U of T, software engineer at SellStatic, interested in AI and ML infrastructure, GPU systems, and useful products" width="960" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arwin-K/Arwin-K/main/assets/terminal-hero.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arwin-K/Arwin-K/main/assets/terminal-hero-light.svg" />
+    <img src="https://raw.githubusercontent.com/Arwin-K/Arwin-K/main/assets/terminal-hero-light.svg" alt="Terminal introduction: Arwin Karir, Computer Engineering at U of T, software engineer at SellStatic, interested in AI and ML infrastructure, GPU systems, and useful products" width="960" />
+  </picture>
 </div>
 
 ```text
@@ -10,11 +14,7 @@ ProductName: macOS
 
 ---
 
-## 01 / about
-
-```zsh
-arwin@macbook ~ % cat ~/about/profile.toml
-```
+## `arwin@macbook ~ % cat ~/about/profile.toml`
 
 ```toml
 name      = "Arwin Karir"
@@ -27,11 +27,7 @@ I like building across the stack, especially where an idea has to leave the note
 
 ---
 
-## 02 / experience
-
-```zsh
-arwin@macbook ~ % ls -lh ~/experience
-```
+## `arwin@macbook ~ % ls -lh ~/experience`
 
 <table>
   <tr>
@@ -61,11 +57,7 @@ arwin@macbook ~ % ls -lh ~/experience
 
 ---
 
-## 03 / projects
-
-```zsh
-arwin@macbook ~ % ls ~/projects
-```
+## `arwin@macbook ~ % ls ~/projects`
 
 ### GPU systems & applied ML
 
@@ -91,27 +83,38 @@ Status: in progress. Results belong in the project record.
 
 ---
 
-## 04 / stack
+## `arwin@macbook ~ % ls ~/stack`
 
-```zsh
-arwin@macbook ~ % ls ~/stack
+```text
 product    ml-systems    infrastructure
 ```
 
 **Product — interfaces, APIs, databases**  
-<img src="https://skillicons.dev/icons?i=ts,js,react,vite,cs,dotnet,postgres,mongodb&theme=dark" alt="TypeScript, JavaScript, React, Vite, C sharp, .NET, PostgreSQL, MongoDB" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,react,vite,cs,dotnet,postgres,mongodb&amp;theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,react,vite,cs,dotnet,postgres,mongodb&amp;theme=light" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,vite,cs,dotnet,postgres,mongodb&amp;theme=light" alt="TypeScript, JavaScript, React, Vite, C sharp, .NET, PostgreSQL, MongoDB" />
+</picture>
 
 **ML & systems — training, inference, vision, GPU work**  
-<img src="https://skillicons.dev/icons?i=python,cpp,pytorch,opencv,raspberrypi,linux&theme=dark" alt="Python, C plus plus, PyTorch, OpenCV, Raspberry Pi, Linux" />  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,cpp,pytorch,opencv,raspberrypi,linux&amp;theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,cpp,pytorch,opencv,raspberrypi,linux&amp;theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,opencv,raspberrypi,linux&amp;theme=light" alt="Python, C plus plus, PyTorch, OpenCV, Raspberry Pi, Linux" />
+</picture>  
 <sub>CUDA · ONNX · scikit-learn · NumPy · pandas</sub>
 
 **Infrastructure — cloud, containers, tooling**  
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github&theme=dark" alt="AWS, Azure, Docker, Git, GitHub" />  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,azure,docker,git,github&amp;theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,azure,docker,git,github&amp;theme=light" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github&amp;theme=light" alt="AWS, Azure, Docker, Git, GitHub" />
+</picture>  
 <sub>SNS/SQS · Lambda · SageMaker · CI · profiling and benchmarks</sub>
 
 ---
 
-## 05 / away from the keyboard
+## `arwin@macbook ~ % cat ~/interests.txt`
 
 Photography, comics, a good sunset, and making the details of a project feel intentional. Some of my photos live on [ArwinOS](https://arwink.me).
 
