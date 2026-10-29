@@ -46,6 +46,3 @@ Outside product work, I keep coming back to the same question: **does it work, a
 
 <sub>Also in the mix: CUDA, ONNX, ASP.NET Core, scikit-learn, and the unglamorous work of testing and measuring things.</sub>
 
----
-
-When I'm away from a screen, I'm usually [taking photos](https://www.instagram.com/karir.visuals/), looking for a good sunset, or reading comics. If something here overlaps with what you're working on, [let's talk](mailto:karirarwin@gmail.com).
