@@ -3,7 +3,7 @@
 </div>
 
 ```text
-Last login: whenever I found something worth building
+Last login: 2026-10-29
 arwin@toronto ~ % cat profile.toml
 ```
 
