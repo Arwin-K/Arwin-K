@@ -1,41 +1,51 @@
 <div align="center">
 
-# Hi, I'm Arwin Karir 👋
+# hey, I'm Arwin 👋
 
-### Computer Engineering student building practical products across web, AI, and edge systems.
+**Computer Engineering @ U of T · software engineer @ SellStatic · based in Toronto**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-arwink.me-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://arwink.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arwin%20Karir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arwin-karir)
-[![Email](https://img.shields.io/badge/Email-karirarwin%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karirarwin@gmail.com)
+I like building things that make it out of the demo tab: useful products, ML systems, and the occasional CUDA kernel that I can actually benchmark.
+
+[![Portfolio](https://img.shields.io/badge/explore%20ArwinOS-arwink.me-171717?style=for-the-badge&logo=vercel&logoColor=white)](https://arwink.me)
+[![LinkedIn](https://img.shields.io/badge/say%20hi-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arwin-karir/)
+[![Email](https://img.shields.io/badge/email%20me-karirarwin%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karirarwin@gmail.com)
 
 </div>
 
-## About
+---
 
-I'm a second-year **Computer Engineering** student at the **University of Toronto** (PEY Co-op), based in Toronto. I enjoy turning technically demanding ideas into reliable, polished products—from full-stack web experiences to GPU-accelerated ML and computer-vision systems.
+### a little about me
 
-- Currently: Software Engineer at **SellStatic**
-- Interested in: full-stack engineering, applied machine learning, and performance-oriented systems
-- BASc, Computer Engineering — University of Toronto (2025–2029)
-- Open to PEY Co-op, internship, collaboration, and project opportunities
+I'm studying **Computer Engineering at the University of Toronto**. At **SellStatic**, I work on AI ad creation workflows, from the React interface to the backend paths that have to recover when a render finishes after someone closes the app.
 
-## Selected work
+Outside product work, I keep coming back to the same question: **does it work, and what does the evidence say?** That's taken me from computer vision on a Raspberry Pi to measuring fused softmax kernels on a Tesla T4. My [portfolio](https://arwink.me) is an OS-style little corner of the internet if you want the fuller picture.
 
-| Project | What it explores |
-| --- | --- |
-| [CUDA-Attention-Softmax](https://github.com/Arwin-K/CUDA-Attention-Softmax) | Fused causal scaled-softmax kernels, warp-level reductions, launch tuning, and transformer-attention performance. |
-| [LumiSense](https://github.com/Arwin-K/LumiSense) | Deep-learning approaches for optimizing lighting and camera parameters. |
-| [Fake-News-Detection](https://github.com/Arwin-K/Fake-News-Detection) | An NLP pipeline for classifying news articles with supervised and deep-learning models. |
-| [Stock-Price-Volatility-Comparison](https://github.com/Arwin-K/Stock-Price-Volatility-Comparison) | Statistical analysis of volatility and predictability across penny stocks and large-cap equities. |
+### things I've built
 
-## Building with
+| | Project | The interesting part |
+| --- | --- | --- |
+| ⚡ | **[CUDA fused causal softmax](https://github.com/Arwin-K/cuda-attention-softmax)** | A PyTorch CUDA extension that fuses scaling, causal masking, and stable softmax. I kept the benchmarks, correctness checks, and the cases where PyTorch SDPA still wins. |
+| 💡 | **[LumiSense](https://github.com/Arwin-K/lumisense)** | Camera-based lighting analysis for the U of T Sustainability Office, with edge inference in the loop. |
+| 🖥️ | **[ArwinOS](https://github.com/Arwin-K/arwin-personal-website)** | My portfolio as a desktop you can explore, built with React and TypeScript. Yes, it has a terminal. |
+| 📰 | **[Fake news detection](https://github.com/Arwin-K/fake-news-detection)** | An NLP pipeline comparing lightweight text features with contextual embeddings. |
+| 📈 | **[Stock volatility research](https://github.com/Arwin-K/stock-price-volatility-comparison)** | A look at volatility and predictability across penny stocks and large caps using Python and statistical models. |
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,ts,react,nextjs,aws,postgres,mongodb,pytorch&theme=dark" alt="Python, C++, TypeScript, React, Next.js, AWS, PostgreSQL, MongoDB and PyTorch" />
-</p>
+### the tools I reach for
 
-## Find me online
+**Web & product**
 
-- Portfolio: [arwink.me](https://arwink.me)
-- LinkedIn: [arwin-karir](https://www.linkedin.com/in/arwin-karir)
-- Email: [karirarwin@gmail.com](mailto:karirarwin@gmail.com)
+[![Web and product stack: TypeScript, JavaScript, React, Vite, C#, .NET, PostgreSQL, MongoDB](https://skillicons.dev/icons?i=ts,js,react,vite,cs,dotnet,postgres,mongodb&theme=dark)](https://arwink.me)
+
+**ML, vision & systems**
+
+[![ML and systems stack: Python, C++, PyTorch, OpenCV, Raspberry Pi, Linux](https://skillicons.dev/icons?i=python,cpp,pytorch,opencv,raspberrypi,linux&theme=dark)](https://github.com/Arwin-K?tab=repositories)
+
+**Cloud & workflow**
+
+[![Cloud and workflow stack: AWS, Azure, Docker, Git, GitHub](https://skillicons.dev/icons?i=aws,azure,docker,git,github&theme=dark)](https://github.com/Arwin-K?tab=repositories)
+
+<sub>Also in the mix: CUDA, ONNX, ASP.NET Core, scikit-learn, and the unglamorous work of testing and measuring things.</sub>
+
+---
+
+When I'm away from a screen, I'm usually [taking photos](https://www.instagram.com/karir.visuals/), looking for a good sunset, or reading comics. If something here overlaps with what you're working on, [let's talk](mailto:karirarwin@gmail.com).
