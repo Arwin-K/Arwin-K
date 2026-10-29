@@ -31,7 +31,9 @@ I like building across the stack, especially where an idea has to leave the note
 
 ### Still — find something worth building
 
-**The hackathon is over. Your project isn't.** Still helps builders share open-source projects, find people who want to contribute, and keep building together.
+Still is a place to **share an open-source project or find one to help with**. It's for people who want to keep building together after a hackathon ends.
+
+<a href="https://still-testing.vercel.app/"><img src="https://raw.githubusercontent.com/Arwin-K/Arwin-K/main/assets/still-preview.jpg" alt="Still home page showing the invitation to keep hackathon projects going and an illustration of builders offering to help" width="840" /></a>
 
 I'm working on this one, and I'd be grateful if you **[checked out Still and gave it a try](https://still-testing.vercel.app/)**. If something feels confusing or could be better, I'd love to hear it.
 
