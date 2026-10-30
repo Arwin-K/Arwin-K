@@ -7,7 +7,7 @@
 </div>
 
 ```text
-Last login: 2026-10-29
+Last login: 2026-10-30
 arwin@macbook ~ % sw_vers
 ProductName: macOS
 ```
@@ -83,7 +83,6 @@ I'm working on this one, and I'd be grateful if you **[checked out Still and gav
 - **[ArwinOS](https://github.com/Arwin-K/arwin-personal-website)** — My [portfolio](https://arwink.me) as a desktop you can explore, built with React and TypeScript.
 - **[Stock volatility research](https://github.com/Arwin-K/stock-price-volatility-comparison)** — Python and statistical modeling to compare volatility and predictability across penny stocks and large caps.
 - **FinanceU** — A financial literacy app concept that won first prize at the ASPIRE 2030 Global Hackathon.
-- **Stock prediction research** — Earlier research with Morgan State University using Python, MATLAB, and linear regression.
 
 ### In progress
 
