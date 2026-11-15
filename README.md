@@ -13,7 +13,7 @@ I build software across the stack, from useful product features to machine learn
 ## What I'm building
 
 - **[Still](https://still-testing.vercel.app/)** — A place to find people to build open-source projects with after hackathons. [Try it](https://still-testing.vercel.app/).
-- **[Jev](https://github.com/Arwin-K/jev-llm-gateway)** — An LLM gateway research project studying model routing, answer quality, and serving costs.
+- **[Jev LLM Gateway](https://github.com/Arwin-K/jev-llm-gateway)** — An LLM gateway research project studying model routing, answer quality, and serving costs.
 - **[CUDA Fused Causal Softmax](https://github.com/Arwin-K/cuda-attention-softmax)** — A CUDA operator and reproducible study of GPU performance for transformer attention.
 - **[Altman Meter](https://github.com/Arwin-K/altman-meter)** — A Mac menu bar app and desktop widget for RAM, disk, and battery.
 
