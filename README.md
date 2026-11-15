@@ -45,7 +45,6 @@ I build software across the stack, from useful product features to machine learn
   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,cpp,pytorch,opencv,raspberrypi,linux&amp;theme=light" />
   <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,opencv,raspberrypi,linux&amp;theme=light" alt="Python, C plus plus, PyTorch, OpenCV, Raspberry Pi, Linux" />
 </picture>  
-<sub>CUDA · ONNX · scikit-learn · NumPy · pandas</sub>
 
 **Infrastructure — cloud, containers, tooling**  
 <picture>
@@ -53,8 +52,6 @@ I build software across the stack, from useful product features to machine learn
   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,azure,docker,git,github&amp;theme=light" />
   <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github&amp;theme=light" alt="AWS, Azure, Docker, Git, GitHub" />
 </picture>  
-<sub>SNS/SQS · Lambda · SageMaker · CI · profiling and benchmarks</sub>
 
-Outside of work, I enjoy photography, comics, and a good sunset.
 
 [Portfolio](https://arwink.me) · [LinkedIn](https://www.linkedin.com/in/arwin-karir/) · [Email](mailto:karirarwin@gmail.com) · [Photography](https://www.instagram.com/karir.visuals/)
