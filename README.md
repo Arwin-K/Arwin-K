@@ -22,13 +22,26 @@ I build software across the stack, from useful product features to machine learn
 <table>
   <tr>
     <td align="center" width="150"><img src="https://raw.githubusercontent.com/Arwin-K/Arwin-K/main/assets/sellstatic-experience.svg" alt="SellStatic logo" width="130" /></td>
-    <td><strong>Software Engineer · SellStatic</strong><br/>Building AI advertising tools with React, C#/.NET, AWS, and Azure.</td>
-  </tr>
-  <tr>
-    <td align="center" width="150"><img src="https://raw.githubusercontent.com/Arwin-K/Arwin-K/main/assets/amazon-experience.svg" alt="Amazon logo" width="130" /></td>
-    <td><strong>Artificial Intelligence Intern · Amazon</strong><br/>Worked on a forest-cover classification pipeline.</td>
+    <td><strong>SellStatic</strong><br/>Software Engineer<br/><sub>May 2026 – present · Toronto</sub></td>
   </tr>
 </table>
+
+- Ship AI ad creation workflows with **React, C# / ASP.NET Core, AWS, and Azure**.
+- Built an asynchronous video completion path with **SNS, SQS, Lambda, SES, and Azure Blob Storage** so finished renders still reach users who leave mid-render.
+- Shipped brand onboarding and ad revision history, with validation, recovery paths, and tests.
+- Added GA4 instrumentation across **27 product surfaces** to make user behavior measurable.
+
+<table>
+  <tr>
+    <td align="center" width="150"><img src="https://raw.githubusercontent.com/Arwin-K/Arwin-K/main/assets/amazon-experience.svg" alt="Amazon logo" width="130" /></td>
+    <td><strong>Amazon Work Experience Program</strong><br/>Artificial Intelligence Intern<br/><sub>June – August 2023 · Remote</sub></td>
+  </tr>
+</table>
+
+- Built a forest cover classification pipeline using **Python, pandas, scikit-learn, Optuna, and AWS SageMaker**.
+- Worked with **464,811 records**, seven classes, and a substantial class imbalance.
+- Compared a tuned decision tree with neural network and logistic regression baselines. The decision tree reached **93.4% accuracy** in that experiment.
+- Measured training time and discussed accuracy versus compute cost with AWS engineers.
 
 ## Languages, frameworks & tools
 
