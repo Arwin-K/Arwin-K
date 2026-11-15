@@ -19,11 +19,41 @@ I build software across the stack, from useful product features to machine learn
 
 ## Experience
 
-I'm a Software Engineer at **SellStatic**, building AI advertising tools with React, C#/.NET, AWS, and Azure. Previously, I worked on machine learning at **Amazon**.
+<table>
+  <tr>
+    <td align="center" width="150"><img src="https://raw.githubusercontent.com/Arwin-K/Arwin-K/main/assets/sellstatic-experience.svg" alt="SellStatic logo" width="130" /></td>
+    <td><strong>Software Engineer · SellStatic</strong><br/>Building AI advertising tools with React, C#/.NET, AWS, and Azure.</td>
+  </tr>
+  <tr>
+    <td align="center" width="150"><img src="https://raw.githubusercontent.com/Arwin-K/Arwin-K/main/assets/amazon-experience.svg" alt="Amazon logo" width="130" /></td>
+    <td><strong>Artificial Intelligence Intern · Amazon</strong><br/>Worked on a forest-cover classification pipeline.</td>
+  </tr>
+</table>
 
-## Tools
+## Languages, frameworks & tools
 
-React · TypeScript · C#/.NET · Python · C++/CUDA · AWS · Azure
+**Product — interfaces, APIs, databases**  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,react,vite,cs,dotnet,postgres,mongodb&amp;theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,react,vite,cs,dotnet,postgres,mongodb&amp;theme=light" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,vite,cs,dotnet,postgres,mongodb&amp;theme=light" alt="TypeScript, JavaScript, React, Vite, C sharp, .NET, PostgreSQL, MongoDB" />
+</picture>
+
+**ML & systems — training, inference, vision, GPU work**  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,cpp,pytorch,opencv,raspberrypi,linux&amp;theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,cpp,pytorch,opencv,raspberrypi,linux&amp;theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,opencv,raspberrypi,linux&amp;theme=light" alt="Python, C plus plus, PyTorch, OpenCV, Raspberry Pi, Linux" />
+</picture>  
+<sub>CUDA · ONNX · scikit-learn · NumPy · pandas</sub>
+
+**Infrastructure — cloud, containers, tooling**  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,azure,docker,git,github&amp;theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,azure,docker,git,github&amp;theme=light" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github&amp;theme=light" alt="AWS, Azure, Docker, Git, GitHub" />
+</picture>  
+<sub>SNS/SQS · Lambda · SageMaker · CI · profiling and benchmarks</sub>
 
 Outside of work, I enjoy photography, comics, and a good sunset.
 
